@@ -7,28 +7,34 @@ The Power BI dashboard is designed as a multi-page, interactive analytical repor
 * Global slicers (Year, Location, Category) are placed consistently on each page to enable cross-page filtering and interactive analysis.
 * Each page focuses on a specific analytical theme, reducing visual clutter and improving insight clarity.
 ## Page Organisation
-#### i.	Home Page
+### i.	Home Page
 Serves as the landing page, presenting the dashboard title and guiding users into the analysis sections.
- 
-Figure 60 Home Page
-#### ii.	Executive Overview
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/Web-Assist/blob/main/Images/home.jpeg", alt=" Home Page" width="50%" height="50%">
+</p> 
+
+### ii.	Executive Overview
 Displays key KPIs such as Total Sales, Total Orders, Net Profit, Profit Margin, and Average Order Value. Supporting visuals summarise revenue trends, profit contribution by category, regional sales, and performance against targets.
- 
-Figure 61 Executive Overview
-#### iii.	Sales Trends Analysis Page
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/Web-Assist/blob/main/Images/overview.jpeg", alt="Executive Overview" width="50%" height="50%">
+</p> 
+
+### iii.	Sales Trends Analysis Page
 Focuses on temporal analysis, including yearly and monthly sales patterns, sales composition trends, profit margin performance, and changing category sales share over time.
  
 Figure 62 Sales Trends Analysis Page
-#### iv.	Products Analysis Page
+### iv.	Products Analysis Page
 Provides product-level insights such as sales and profit by category, price distribution, Pareto (80/20) contribution analysis, and product profitability positioning.
  
 Figure 63 Products Analysis Page
-#### v.	Customer Analysis Page
+### v.	Customer Analysis Page
 Analyses customer behaviour through spend distribution, value segmentation, top revenue contributors, revenue contribution by gender, and average order value distribution.
  
 Figure 64 Customer Analysis Page
 
-#### vi.	Sales Drivers Analysis Page
+### vi.	Sales Drivers Analysis Page
 Uses a decomposition-style visual to identify key drivers of total sales by product category, geography, and customer gender, supporting root-cause analysis. 
  
 Figure 65 Sales Drivers Analysis Page
