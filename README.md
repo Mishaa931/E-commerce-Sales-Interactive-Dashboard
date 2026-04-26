@@ -23,20 +23,30 @@ Displays key KPIs such as Total Sales, Total Orders, Net Profit, Profit Margin, 
 
 ### iii.	Sales Trends Analysis Page
 Focuses on temporal analysis, including yearly and monthly sales patterns, sales composition trends, profit margin performance, and changing category sales share over time.
- 
-Figure 62 Sales Trends Analysis Page
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/sale trend analysis.jpeg", alt="Sales Trends Analysis Page" width="50%" height="50%">
+</p> 
+
 ### iv.	Products Analysis Page
 Provides product-level insights such as sales and profit by category, price distribution, Pareto (80/20) contribution analysis, and product profitability positioning.
- 
-Figure 63 Products Analysis Page
+
+ <p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/Product analysis.jpeg", alt="Products Analysis Page" width="50%" height="50%">
+</p> 
+
 ### v.	Customer Analysis Page
 Analyses customer behaviour through spend distribution, value segmentation, top revenue contributors, revenue contribution by gender, and average order value distribution.
- 
-Figure 64 Customer Analysis Page
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/customer analysis.jpeg", alt="Customer Analysis Page" width="50%" height="50%">
+</p> 
 
 ### vi.	Sales Drivers Analysis Page
 Uses a decomposition-style visual to identify key drivers of total sales by product category, geography, and customer gender, supporting root-cause analysis. 
- 
-Figure 65 Sales Drivers Analysis Page
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/sales drivers.jpeg", alt="Sales Drivers Analysis Page" width="50%" height="50%">
+</p>
 
 The dashboard is organised using a thematic, page-based structure, progressing from strategic overview to detailed analysis. Consistent slicers, navigation, and visual design ensure an intuitive user experience while enabling comprehensive business insight discovery.
