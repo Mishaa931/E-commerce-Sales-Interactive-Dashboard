@@ -11,14 +11,14 @@ The Power BI dashboard is designed as a multi-page, interactive analytical repor
 Serves as the landing page, presenting the dashboard title and guiding users into the analysis sections.
 
 <p align="center">
-  <img src="https://github.com/Mishaa931/Web-Assist/blob/main/Images/home.jpeg", alt=" Home Page" width="50%" height="50%">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/home.jpeg", alt=" Home Page" width="50%" height="50%">
 </p> 
 
 ### ii.	Executive Overview
 Displays key KPIs such as Total Sales, Total Orders, Net Profit, Profit Margin, and Average Order Value. Supporting visuals summarise revenue trends, profit contribution by category, regional sales, and performance against targets.
 
 <p align="center">
-  <img src="https://github.com/Mishaa931/Web-Assist/blob/main/Images/overview.jpeg", alt="Executive Overview" width="50%" height="50%">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/overview.jpeg", alt="Executive Overview" width="50%" height="50%">
 </p> 
 
 ### iii.	Sales Trends Analysis Page
