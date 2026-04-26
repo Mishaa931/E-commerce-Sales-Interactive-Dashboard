@@ -1,4 +1,31 @@
 # E-commerce-Sales-Interactive-Dashboard
+## Introduction
+The purpose of this report is to analyse an e-commerce dataset using Microsoft Power BI in order to identify key trends, patterns, and performance drivers related to sales, products, customers, and geographical markets. The analysis aims to support business decision-making by transforming transactional data into meaningful insights through interactive visualisations and calculated performance metrics.
+The dashboard focuses on key performance indicators such as Total Sales, Total Profit, Profit Margin, and Order Volume, enabling stakeholders to assess overall business performance and identify areas for improvement. Selected visualisations from the full dashboard are included in this section to highlight the most significant findings.
+ 
+Figure 1 Sales Trend Over Time
+ 
+Figure 2 Product Contribution Analysis (Pareto Chart)
+
+## Key Findings
+•	Sales performance remains generally stable over the analysed period, with noticeable increases during specific timeframes, indicating the presence of seasonal demand patterns.
+•	Product contribution analysis shows that a small number of products generate a disproportionately large share of total revenue, confirming the applicability of the 80/20 rule.
+•	Customer analysis reveals that while most customers place low-to-medium value orders, a smaller group of high-value customers contributes significantly to overall revenue.
+•	Geographical analysis indicates uneven revenue distribution, with certain countries acting as primary revenue drivers while others underperform.
+•	Overall performance is driven by a limited set of products, customers, and regions, highlighting clear opportunities for targeted optimisation strategies.
+## Conclusion and Recommendations
+### Conclusion
+The analysis provides a holistic view of business performance across sales, profit, customers, products, regions, and sales drivers. Overall performance is strong, with healthy sales, stable profit margins, and a solid average order value. Sales trends show general growth with some volatility, indicating opportunities for better forecasting and planning.
+Revenue and profit are concentrated among a limited set of products, categories, and high-value customers, confirming dependency risks but also clear optimization opportunities. Product analysis highlights a trade-off between high-volume and high-margin categories, while customer analysis shows that a small segment contributes most of the revenue. Regional and sales driver insights reveal that specific combinations of product, geography, and customer demographics drive overall performance. Target analysis identifies performance gaps in certain categories.
+### Recommendations
+i.	Prioritize high-value customers through retention and loyalty initiatives to protect core revenue streams.
+ii.	Optimize the product portfolio by scaling high-margin categories and reviewing low-margin, high-volume products.
+iii.	Refine pricing strategies where high order value does not translate into strong profitability.
+iv.	Reassess sales targets for underperforming categories and strengthen performance monitoring.
+v.	Focus on high-performing regions while exploring growth opportunities in underpenetrated markets.
+vi.	Align marketing efforts with customer behavior and purchasing patterns to increase order value.
+vii.	Continuously monitor sales drivers to support informed strategic and operational decisions.
+
 ## Dashboard 
 The Power BI dashboard is designed as a multi-page, interactive analytical report that provides both high-level executive insights and detailed drill-down analysis. A consistent layout, colour theme, and navigation panel are used across all pages to ensure usability and coherence.
 ### Dashboard Structure
@@ -50,3 +77,4 @@ Uses a decomposition-style visual to identify key drivers of total sales by prod
 </p>
 
 The dashboard is organised using a thematic, page-based structure, progressing from strategic overview to detailed analysis. Consistent slicers, navigation, and visual design ensure an intuitive user experience while enabling comprehensive business insight discovery.
+
