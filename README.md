@@ -2,10 +2,14 @@
 ## Introduction
 The purpose of this report is to analyse an e-commerce dataset using Microsoft Power BI in order to identify key trends, patterns, and performance drivers related to sales, products, customers, and geographical markets. The analysis aims to support business decision-making by transforming transactional data into meaningful insights through interactive visualisations and calculated performance metrics.
 The dashboard focuses on key performance indicators such as Total Sales, Total Profit, Profit Margin, and Order Volume, enabling stakeholders to assess overall business performance and identify areas for improvement. Selected visualisations from the full dashboard are included in this section to highlight the most significant findings.
- 
-Figure 1 Sales Trend Over Time
- 
-Figure 2 Product Contribution Analysis (Pareto Chart)
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/revenue%20trend%20over%20time%20graph.png", alt=" Home Page" width="50%" height="50%">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Mishaa931/E-commerce-Sales-Interactive-Dashboard/blob/main/Image/product%20contribution%20chart.png", alt=" Home Page" width="50%" height="50%">
+</p> 
 
 ## Key Findings
 •	Sales performance remains generally stable over the analysed period, with noticeable increases during specific timeframes, indicating the presence of seasonal demand patterns.
